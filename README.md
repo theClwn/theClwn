@@ -1,6 +1,6 @@
 ## Hi, I'm Jester 👋
 
-Currently an IT student majoring in Network Information Security.
+Currently an IT student majoring in Network and Information Security.
 
 I enjoy building things that solve problems or make life a little easier. Most of what you'll find here are projects I built to learn or simply to experiment.
 
